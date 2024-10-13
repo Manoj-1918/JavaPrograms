@@ -1,0 +1,21 @@
+Name: manoj sah
+Department: development
+Email ID: manoj.sah@development.a2zsales.com
+Mailbox Capacity: 19
+Alternate Email: N/A
+Password: manoj@123
+======================================
+Name: manoj sah
+Department: development
+Email ID: manoj.sah@development.a2zsales.com
+Mailbox Capacity: 19
+Alternate Email: N/A
+Password: manoj@123
+======================================
+Name: rahul patel
+Department: development
+Email ID: rahul.patel@development.a2zsales.com
+Mailbox Capacity: 100
+Alternate Email: N/A
+Password: Pu5pel4e
+======================================
