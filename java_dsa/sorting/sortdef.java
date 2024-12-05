@@ -51,5 +51,11 @@ public void display(int[] arr){
     }
     System.out.println();
 }
+public void displayUsingAdvForLoop(int arr[]){
+    for(int i:arr){                         // advanced for loop is used.
+        System.out.printf("%5d",arr[i]);// aligning with 5 spaces.
+    }
+    System.out.println();
+}
 }
                
